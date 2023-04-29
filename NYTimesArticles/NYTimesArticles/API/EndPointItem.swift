@@ -21,7 +21,7 @@ extension EndPointItem: EndPointType{
     var path: String {
         switch self {
         case .viewed(let numberOfDays):
-            return "viewed/\(numberOfDays).json"
+            return "mostviewed/all-sections/\(numberOfDays).json"
         }
     }
     
