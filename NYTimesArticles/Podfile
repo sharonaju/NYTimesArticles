@@ -8,4 +8,9 @@ target 'NYTimesArticles' do
   # Pods for NYTimesArticles
 pod 'Alamofire'
 
+target 'NYTimesArticlesTests' do
+  inherit! :search_paths
+  # Pods for testing
+end
+
 end
