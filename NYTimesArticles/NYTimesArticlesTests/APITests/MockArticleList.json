@@ -1,0 +1,1162 @@
+
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/eb2365b6-50db-5799-b0c6-d4fc2583f72e",
+      "url": "https://www.nytimes.com/2022/11/01/dining/julie-powell-dead.html",
+      "id": 100000008609963,
+      "asset_id": 100000008609963,
+      "source": "New York Times",
+      "published_date": "2022-11-01",
+      "updated": "2022-11-03 14:41:34",
+      "section": "Food",
+      "subsection": "",
+      "nytdsection": "food",
+      "adx_keywords": "Deaths (Obituaries);Cooking and Cookbooks;Writing and Writers;Books and Literature;Movies;Blogs and Blogging (Internet);Powell, Julie;Child, Julia",
+      "column": null,
+      "byline": "By Kim Severson and Julia Moskin",
+      "type": "Article",
+      "title": "Julie Powell, Food Writer Known for ‘Julie & Julia,’ Dies at 49",
+      "abstract": "She attempted to cook every recipe in a classic Julia Child cookbook and documented the effort in a popular blog that became a best-selling book and a hit movie.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Cooking and Cookbooks",
+        "Writing and Writers",
+        "Books and Literature",
+        "Movies",
+        "Blogs and Blogging (Internet)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Powell, Julie",
+        "Child, Julia"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Julie Powell in 2009, the year Nora Ephron's movie “Julie & Julia,” based on Ms. Powell’s book, was released.",
+          "copyright": "Kelly Campbell, via Little, Brown &amp; Company",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/01/dining/01powell-obit1/merlin_29215068_e3a6bb15-0501-415c-8920-b58412a3661e-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/01/dining/01powell-obit1/merlin_29215068_e3a6bb15-0501-415c-8920-b58412a3661e-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/01/dining/01powell-obit1/merlin_29215068_e3a6bb15-0501-415c-8920-b58412a3661e-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/99f1986f-032e-58e2-bad8-6ead27e5e89a",
+      "url": "https://www.nytimes.com/2022/11/01/arts/music/takeoff-migos-dead.html",
+      "id": 100000008610659,
+      "asset_id": 100000008610659,
+      "source": "New York Times",
+      "published_date": "2022-11-01",
+      "updated": "2022-11-02 10:53:08",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Murders, Attempted Murders and Homicides;Rap and Hip-Hop;Content Type: Personal Profile;Takeoff (Rapper);Migos (Music Group);Houston (Tex)",
+      "column": null,
+      "byline": "By Joe Coscarelli and J. David Goodman",
+      "type": "Article",
+      "title": "Takeoff, of Atlanta Rap Trio Migos, Shot Dead at 28",
+      "abstract": "The rapper was killed in a shooting at a bowling alley in Houston overnight.",
+      "des_facet": [
+        "Murders, Attempted Murders and Homicides",
+        "Rap and Hip-Hop",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        "Migos (Music Group)"
+      ],
+      "per_facet": [
+        "Takeoff (Rapper)"
+      ],
+      "geo_facet": [
+        "Houston (Tex)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/064290f5-3787-5b61-8445-317438ad8478",
+      "url": "https://www.nytimes.com/2022/10/28/us/politics/nancy-pelosi-husband-assaulted.html",
+      "id": 100000008605152,
+      "asset_id": 100000008605152,
+      "source": "New York Times",
+      "published_date": "2022-10-28",
+      "updated": "2022-10-31 18:55:31",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Assaults;Pelosi, Paul;Pelosi, Nancy;House of Representatives;San Francisco (Calif)",
+      "column": null,
+      "byline": "By Amanda Holpuch",
+      "type": "Article",
+      "title": "What We Know About the Attack on Nancy Pelosi’s Husband",
+      "abstract": "Paul Pelosi, 82, underwent surgery for a skull fracture after he was assaulted at the couple’s home in San Francisco, and was expected to recover, a spokesman for Ms. Pelosi said.",
+      "des_facet": [
+        "Assaults"
+      ],
+      "org_facet": [
+        "House of Representatives"
+      ],
+      "per_facet": [
+        "Pelosi, Paul",
+        "Pelosi, Nancy"
+      ],
+      "geo_facet": [
+        "San Francisco (Calif)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/48d0e106-7f03-58be-a730-961f2fceab5d",
+      "url": "https://www.nytimes.com/2022/10/13/us/raleigh-shooting.html",
+      "id": 100000008581415,
+      "asset_id": 100000008581415,
+      "source": "New York Times",
+      "published_date": "2022-10-13",
+      "updated": "2022-10-14 21:13:08",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Raleigh, NC, Shooting (Oct 13, 2022);Torres, Gabriel (d 2022);Raleigh (NC);North Carolina",
+      "column": null,
+      "byline": "By Emily Cataneo, Rick Rojas, Vimal Patel, McKenna Oxenden and Mike Ives",
+      "type": "Article",
+      "title": "Suspect, 15, in Custody After Shooting Rampage Left 5 Dead",
+      "abstract": "An off-duty police officer was among those killed in the attack in Raleigh, N.C. At least two other people were wounded, including another officer.",
+      "des_facet": [
+        "Raleigh, NC, Shooting (Oct 13, 2022)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Torres, Gabriel (d 2022)"
+      ],
+      "geo_facet": [
+        "Raleigh (NC)",
+        "North Carolina"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/759e65cf-9ff5-5763-a255-9c52033fa4dd",
+      "url": "https://www.nytimes.com/2022/10/25/business/adidas-kanye-west.html",
+      "id": 100000008598499,
+      "asset_id": 100000008598499,
+      "source": "New York Times",
+      "published_date": "2022-10-25",
+      "updated": "2022-10-26 11:25:41",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Fashion and Apparel;Rap and Hip-Hop;Anti-Semitism;Advertising and Marketing;West, Kanye;adidas AG",
+      "column": null,
+      "byline": "By Melissa Eddy, Vanessa Friedman and Michael J. de la Merced",
+      "type": "Article",
+      "title": "Adidas Ends Partnership With Kanye West at a Considerable Cost",
+      "abstract": "The German sportswear giant is the latest company to cut ties with Mr. West, now known as Ye, after his antisemitic remarks. Ending the partnership is expected to hurt company profits.",
+      "des_facet": [
+        "Fashion and Apparel",
+        "Rap and Hip-Hop",
+        "Anti-Semitism",
+        "Advertising and Marketing"
+      ],
+      "org_facet": [
+        "adidas AG"
+      ],
+      "per_facet": [
+        "West, Kanye"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kanye West, now known as Ye, in Hollywood in 2016 at an event promoting his partnership with Adidas.",
+          "copyright": "Jonathan Leibson/Getty Images North America",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25adidas-kanye-1-db1a/25adidas-kanye-1-db1a-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25adidas-kanye-1-db1a/25adidas-kanye-1-db1a-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/25/multimedia/25adidas-kanye-1-db1a/25adidas-kanye-1-db1a-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f05add67-3563-5735-9be3-5e61fcd330cc",
+      "url": "https://www.nytimes.com/2022/10/17/health/clitoris-sex-doctors-surgery.html",
+      "id": 100000008490129,
+      "asset_id": 100000008490129,
+      "source": "New York Times",
+      "published_date": "2022-10-17",
+      "updated": "2022-10-26 14:13:12",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "your-feed-health;internal-sub-only;your-feed-science;Vagina;Sex;Senses and Sensation;Women and Girls;Surgery and Surgeons;Plastic Surgery;Gynecology and Gynecologists;audio-neutral-informative",
+      "column": null,
+      "byline": "By Rachel E. Gross",
+      "type": "Article",
+      "title": "Half the World Has a Clitoris. Why Don’t Doctors Study It?",
+      "abstract": "The organ is “completely ignored by pretty much everyone,” medical experts say, and that omission can be devastating to women’s sexual health.",
+      "des_facet": [
+        "your-feed-health",
+        "internal-sub-only",
+        "your-feed-science",
+        "Vagina",
+        "Sex",
+        "Senses and Sensation",
+        "Women and Girls",
+        "Surgery and Surgeons",
+        "Plastic Surgery",
+        "Gynecology and Gynecologists",
+        "audio-neutral-informative"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ina Jang",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/10/18/science/00vulva-1/00vulva-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/18/science/00vulva-1/00vulva-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/18/science/00vulva-1/00vulva-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3436605b-fa9e-5f64-a246-1a64e6b0f6a0",
+      "url": "https://www.nytimes.com/2022/10/05/us/politics/ukraine-russia-dugina-assassination.html",
+      "id": 100000008564962,
+      "asset_id": 100000008564962,
+      "source": "New York Times",
+      "published_date": "2022-10-05",
+      "updated": "2022-10-06 10:15:53",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Assassinations and Attempted Assassinations;Espionage and Intelligence Services;Russian Invasion of Ukraine (2022);United States International Relations;Dugina, Daria (1992-2022);Dugin, Alexander (1962- );Zelensky, Volodymyr;Russia;Ukraine",
+      "column": null,
+      "byline": "By Julian E. Barnes, Adam Goldman, Adam Entous and Michael Schwirtz",
+      "type": "Article",
+      "title": "U.S. Believes Ukrainians Were Behind an Assassination in Russia",
+      "abstract": "American officials said they were not aware of the plan ahead of time for the attack that killed Daria Dugina and that they had admonished Ukraine over it.",
+      "des_facet": [
+        "Assassinations and Attempted Assassinations",
+        "Espionage and Intelligence Services",
+        "Russian Invasion of Ukraine (2022)",
+        "United States International Relations"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Dugina, Daria (1992-2022)",
+        "Dugin, Alexander (1962- )",
+        "Zelensky, Volodymyr"
+      ],
+      "geo_facet": [
+        "Russia",
+        "Ukraine"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daria Dugina’s memorial service in Moscow in August. U.S. intelligence agencies believe that parts of the Ukrainian government authorized the attack that killed her.",
+          "copyright": "Kirill Kudryavtsev/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/10/05/us/politics/05dc-intel-1/merlin_211819080_89b7fb20-74e1-4fe9-856f-e6ffc55dfa59-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/05/us/politics/05dc-intel-1/merlin_211819080_89b7fb20-74e1-4fe9-856f-e6ffc55dfa59-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/05/us/politics/05dc-intel-1/merlin_211819080_89b7fb20-74e1-4fe9-856f-e6ffc55dfa59-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d23c413c-5448-5731-ba16-b2998161ee48",
+      "url": "https://www.nytimes.com/2022/10/28/arts/music/jerry-lee-lewis-dead.html",
+      "id": 100000007817104,
+      "asset_id": 100000007817104,
+      "source": "New York Times",
+      "published_date": "2022-10-28",
+      "updated": "2022-10-31 12:46:52",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Deaths (Obituaries);Pop and Rock Music;Country Music;Lewis, Jerry Lee",
+      "column": null,
+      "byline": "By William Grimes",
+      "type": "Article",
+      "title": "Jerry Lee Lewis, a Rock ’n’ Roll Original, Dies at 87",
+      "abstract": "With his pounding piano, his impassioned vocals and his incendiary performing style, Mr. Lewis lived up to his nickname, the Killer.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Pop and Rock Music",
+        "Country Music"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Lewis, Jerry Lee"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jerry Lee Lewis in 1957. His incendiary performing style captured the essence of rock rebellion.",
+          "copyright": "Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/06/16/obituaries/00lewis_jerry_lee2/merlin_107592586_33db2236-9b00-4c6b-9292-ab058d17b42f-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/16/obituaries/00lewis_jerry_lee2/merlin_107592586_33db2236-9b00-4c6b-9292-ab058d17b42f-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/16/obituaries/00lewis_jerry_lee2/merlin_107592586_33db2236-9b00-4c6b-9292-ab058d17b42f-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9cab2b51-fca5-59be-9d1c-d39fa7390cdd",
+      "url": "https://www.nytimes.com/2015/01/09/style/no-37-big-wedding-or-small.html",
+      "id": 100000003439827,
+      "asset_id": 100000003439827,
+      "source": "New York Times",
+      "published_date": "2015-01-09",
+      "updated": "2022-09-08 08:10:33",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Love (Emotion);Dating and Relationships;Psychology and Psychologists;Aron, Arthur (1945- )",
+      "column": null,
+      "byline": "By Daniel Jones",
+      "type": "Article",
+      "title": "The 36 Questions That Lead to Love",
+      "abstract": "A series of personal questions used by the psychologist Arthur Aron to explore the idea of fostering closeness through mutual vulnerability.",
+      "des_facet": [
+        "Love (Emotion)",
+        "Dating and Relationships",
+        "Psychology and Psychologists"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Aron, Arthur (1945- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brian Rea",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2015/01/11/fashion/11LOVE-tight/11LOVE-tight-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2015/01/11/fashion/11LOVE-tight/11LOVE-tight-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2015/01/11/fashion/11LOVE-tight/11LOVE-tight-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7c1960cc-6811-54f2-8b66-7a8e83bfc9b0",
+      "url": "https://www.nytimes.com/2022/10/04/science/greece-sicily-himera-genetics.html",
+      "id": 100000008564975,
+      "asset_id": 100000008564975,
+      "source": "New York Times",
+      "published_date": "2022-10-04",
+      "updated": "2022-10-10 19:45:17",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Mercenaries and Private Military Contractors;Greek Civilization;Genetics and Heredity;Archaeology and Anthropology;your-feed-science;Reich, David E (1974- );Proceedings of the National Academy of Sciences;Sicily (Italy);Carthage",
+      "column": null,
+      "byline": "By Franz Lidz",
+      "type": "Article",
+      "title": "Hidden in 54 Corpses, a Revelation About Ancient Greece",
+      "abstract": "DNA from a 2,500-year-old battlefield in Sicily reveals that mercenary soldiers were common, if not the Homeric ideal.",
+      "des_facet": [
+        "Mercenaries and Private Military Contractors",
+        "Greek Civilization",
+        "Genetics and Heredity",
+        "Archaeology and Anthropology",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "Proceedings of the National Academy of Sciences"
+      ],
+      "per_facet": [
+        "Reich, David E (1974- )"
+      ],
+      "geo_facet": [
+        "Sicily (Italy)",
+        "Carthage"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A mass grave of troops from the second Battle of Himera in Sicily in 409 B.C. One-fourth of the combatants are thought to have been mercenaries, compared to two-thirds in the first Battle of Himera seven decades earlier.",
+          "copyright": "Stefano Vassallo",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/10/11/science/04SCI-HIMERA/04SCI-HIMERA-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/11/science/04SCI-HIMERA/04SCI-HIMERA-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/11/science/04SCI-HIMERA/04SCI-HIMERA-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/cf4b39c0-bb9a-5107-a451-ec06859e0497",
+      "url": "https://www.nytimes.com/2022/10/13/us/politics/trump-supreme-court.html",
+      "id": 100000008580880,
+      "asset_id": 100000008580880,
+      "source": "New York Times",
+      "published_date": "2022-10-13",
+      "updated": "2022-10-14 08:22:35",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Classified Information and State Secrets;Search and Seizure;Decisions and Verdicts;Executive Privilege, Doctrine of;Trump, Donald J;Supreme Court (US);Justice Department",
+      "column": null,
+      "byline": "By Adam Liptak",
+      "type": "Article",
+      "title": "Supreme Court Rejects Trump Request to Intervene in Documents Case",
+      "abstract": "Without any noted dissents, the court issued a one-sentence statement that amounted to a rebuke to the former president.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Classified Information and State Secrets",
+        "Search and Seizure",
+        "Decisions and Verdicts",
+        "Executive Privilege, Doctrine of"
+      ],
+      "org_facet": [
+        "Supreme Court (US)",
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump has often been infuriated by what he sees as a lack of deference to him by the Supreme Court, to which he has appointed three justices. ",
+          "copyright": "Bridget Bennett for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/10/13/us/politics/13dc-scotus-1/merlin_214571658_5dec7760-1a44-490a-b091-98b53cf8087f-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/13/us/politics/13dc-scotus-1/merlin_214571658_5dec7760-1a44-490a-b091-98b53cf8087f-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/13/us/politics/13dc-scotus-1/merlin_214571658_5dec7760-1a44-490a-b091-98b53cf8087f-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2acc7fc5-edb0-52ed-9a09-2a6c90beca71",
+      "url": "https://www.nytimes.com/2022/10/10/science/black-holes-cosmology-hologram.html",
+      "id": 100000008513890,
+      "asset_id": 100000008513890,
+      "source": "New York Times",
+      "published_date": "2022-10-10",
+      "updated": "2022-10-12 13:13:22",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Black Holes (Space);Space and Astronomy;Gravitation and Gravity;Physics;Quantum Theory;internal-sub-only;your-feed-science;Hawking, Stephen W;California Institute of Technology;Stanford University",
+      "column": null,
+      "byline": "By Dennis Overbye",
+      "type": "Article",
+      "title": "Black Holes May Hide a Mind-Bending Secret About Our Universe",
+      "abstract": "Take gravity, add quantum mechanics, stir. What do you get? Just maybe, a holographic cosmos.",
+      "des_facet": [
+        "Black Holes (Space)",
+        "Space and Astronomy",
+        "Gravitation and Gravity",
+        "Physics",
+        "Quantum Theory",
+        "internal-sub-only",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "California Institute of Technology",
+        "Stanford University"
+      ],
+      "per_facet": [
+        "Hawking, Stephen W"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Leonardo Santamaria",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/10/11/science/11-SCI-BLACKHOLE-1/11-SCI-BLACKHOLE-1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/11/science/11-SCI-BLACKHOLE-1/11-SCI-BLACKHOLE-1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/11/science/11-SCI-BLACKHOLE-1/11-SCI-BLACKHOLE-1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/832a00fd-4d3a-5727-8389-1d0dc2fa0a4e",
+      "url": "https://www.nytimes.com/2022/10/14/well/live/cold-flu-immune-system.html",
+      "id": 100000008549752,
+      "asset_id": 100000008549752,
+      "source": "New York Times",
+      "published_date": "2022-10-14",
+      "updated": "2022-10-24 23:37:49",
+      "section": "Well",
+      "subsection": "Live",
+      "nytdsection": "well",
+      "adx_keywords": "Immune System;Coronavirus (2019-nCoV);Colds;Diet and Nutrition;Anxiety and Stress;Exercise;Content Type: Service;Autumn (Season);Vaccination and Immunization;Winter (Season);Seasons and Months;Hygiene and Cleanliness;Infections;Influenza",
+      "column": null,
+      "byline": "By Hannah Seo",
+      "type": "Article",
+      "title": "How to Boost Your Immune System During Cold and Flu Season",
+      "abstract": "Here are four things immunologists and other health experts say you can do.",
+      "des_facet": [
+        "Immune System",
+        "Coronavirus (2019-nCoV)",
+        "Colds",
+        "Diet and Nutrition",
+        "Anxiety and Stress",
+        "Exercise",
+        "Content Type: Service",
+        "Autumn (Season)",
+        "Vaccination and Immunization",
+        "Winter (Season)",
+        "Seasons and Months",
+        "Hygiene and Cleanliness",
+        "Infections",
+        "Influenza"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cristina Span&ograve;",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/10/25/well/14WELL-IMMUNOLOGIST_TIPS/14WELL-IMMUNOLOGIST_TIPS-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/25/well/14WELL-IMMUNOLOGIST_TIPS/14WELL-IMMUNOLOGIST_TIPS-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/25/well/14WELL-IMMUNOLOGIST_TIPS/14WELL-IMMUNOLOGIST_TIPS-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9be8be73-4737-5cde-9333-36cfbdad8bb0",
+      "url": "https://www.nytimes.com/2022/10/09/business/retirement/social-security-cost-of-living-increase.html",
+      "id": 100000008526680,
+      "asset_id": 100000008526680,
+      "source": "New York Times",
+      "published_date": "2022-10-09",
+      "updated": "2022-10-13 09:55:59",
+      "section": "Business",
+      "subsection": "Retirement",
+      "nytdsection": "business",
+      "adx_keywords": "Social Security (US);Elderly;Inflation (Economics);Income",
+      "column": null,
+      "byline": "By Mark Miller",
+      "type": "Article",
+      "title": "Retirees are getting an 8.7% Social Security cost-of-living raise, the biggest in decades.",
+      "abstract": "The adjustment to monthly benefits will help retirees keep pace with inflation. It’s the largest increase since 1981.",
+      "des_facet": [
+        "Social Security (US)",
+        "Elderly",
+        "Inflation (Economics)",
+        "Income"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lisa Haney",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/10/09/business/09Retiring-lede-illo/09Retiring-lede-illo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/09/business/09Retiring-lede-illo/09Retiring-lede-illo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/09/business/09Retiring-lede-illo/09Retiring-lede-illo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a4252794-a605-58df-a332-26e9e39618c7",
+      "url": "https://www.nytimes.com/2022/10/08/style/anna-sorokin-delvey-interview.html",
+      "id": 100000008570115,
+      "asset_id": 100000008570115,
+      "source": "New York Times",
+      "published_date": "2022-10-08",
+      "updated": "2022-10-12 23:25:26",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Content Type: Personal Profile;Decisions and Verdicts;Immigration and Emigration;Immigration Detention;Frauds and Swindling;Sorokin, Anna (Anna Delvey);East Village (Manhattan, NY)",
+      "column": null,
+      "byline": "By Emily Palmer",
+      "type": "Article",
+      "title": "‘Exactly What I Wanted’: Anna Sorokin’s First Night of House Arrest",
+      "abstract": "In a late-night interview in her new Manhattan apartment, the fake heiress discussed her big plans, possible deportation and the glam potential of an ankle monitor.",
+      "des_facet": [
+        "Content Type: Personal Profile",
+        "Decisions and Verdicts",
+        "Immigration and Emigration",
+        "Immigration Detention",
+        "Frauds and Swindling"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Sorokin, Anna (Anna Delvey)"
+      ],
+      "geo_facet": [
+        "East Village (Manhattan, NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anna Sorokin shortly after beginning her house arrest in the East Village.",
+          "copyright": "Ben Rayner for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/10/13/fashion/06delvey-interview/06delvey-interview-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/13/fashion/06delvey-interview/06delvey-interview-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/13/fashion/06delvey-interview/06delvey-interview-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/14165676-4a3e-5d15-b74b-71effac5b03e",
+      "url": "https://www.nytimes.com/2022/10/04/movies/angelina-jolie-brad-pitt-lawsuit.html",
+      "id": 100000008565706,
+      "asset_id": 100000008565706,
+      "source": "New York Times",
+      "published_date": "2022-10-04",
+      "updated": "2022-10-05 10:50:30",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Suits and Litigation (Civil);Wines;Child Abuse and Neglect;Divorce, Separations and Annulments;Domestic Violence;Jolie, Angelina;Pitt, Brad;Chateau Miraval;France;California",
+      "column": null,
+      "byline": "By Julia Jacobs",
+      "type": "Article",
+      "title": "Angelina Jolie Details Abuse Allegations Against Brad Pitt in Countersuit",
+      "abstract": "In court papers related to a legal battle over a French winery they once owned together, she claims that he was abusive to her and their children during a 2016 plane ride.",
+      "des_facet": [
+        "Suits and Litigation (Civil)",
+        "Wines",
+        "Child Abuse and Neglect",
+        "Divorce, Separations and Annulments",
+        "Domestic Violence"
+      ],
+      "org_facet": [
+        "Chateau Miraval"
+      ],
+      "per_facet": [
+        "Jolie, Angelina",
+        "Pitt, Brad"
+      ],
+      "geo_facet": [
+        "France",
+        "California"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Angelina Jolie countersued her ex-husband Brad Pitt as part of a legal battle over a winery they once owned together. ",
+          "copyright": "Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/10/04/multimedia/04lawsuit-1-1-b5a5/04lawsuit-1-1-b5a5-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/04/multimedia/04lawsuit-1-1-b5a5/04lawsuit-1-1-b5a5-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/04/multimedia/04lawsuit-1-1-b5a5/04lawsuit-1-1-b5a5-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c88addee-d290-5bbc-9c64-8ccf2cff52aa",
+      "url": "https://www.nytimes.com/2022/10/07/opinion/obama-lost-book-manuscript.html",
+      "id": 100000008541522,
+      "asset_id": 100000008541522,
+      "source": "New York Times",
+      "published_date": "2022-10-07",
+      "updated": "2022-10-10 12:50:46",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Manuscripts;United States Politics and Government;Civil Rights Movement (1954-68);Liberalism (US Politics);Obama, Barack;Rustin, Bayard;Democratic Party;Republican Party",
+      "column": null,
+      "byline": "By Timothy Shenk",
+      "type": "Article",
+      "title": "A Lost Manuscript Shows the Fire Barack Obama Couldn’t Reveal on the Campaign Trail",
+      "abstract": "At Harvard Law, he wrote a blistering manifesto he never published. Its searing advice could help Democrats escape their current political quagmire.",
+      "des_facet": [
+        "Manuscripts",
+        "United States Politics and Government",
+        "Civil Rights Movement (1954-68)",
+        "Liberalism (US Politics)"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Obama, Barack",
+        "Rustin, Bayard"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/10/07/opinion/07obama_promo/07obama_promo-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/07/opinion/07obama_promo/07obama_promo-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/07/opinion/07obama_promo/07obama_promo-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7e257efb-d6cb-5e02-acc7-4a98817295b8",
+      "url": "https://www.nytimes.com/2022/10/06/us/politics/biden-marijuana-pardon.html",
+      "id": 100000008570502,
+      "asset_id": 100000008570502,
+      "source": "New York Times",
+      "published_date": "2022-10-06",
+      "updated": "2022-10-07 08:29:01",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Marijuana;Amnesties, Commutations and Pardons;Drug Abuse and Traffic;Law and Legislation;States (US);United States Politics and Government;Biden, Joseph R Jr",
+      "column": null,
+      "byline": "By Michael D. Shear and Zolan Kanno-Youngs",
+      "type": "Article",
+      "title": "Biden Pardons Thousands Convicted of Marijuana Possession Under Federal Law",
+      "abstract": "The move represents a fundamental change in America’s response to a drug that has been at the center of a clash between culture and policing for more than a half-century.",
+      "des_facet": [
+        "Marijuana",
+        "Amnesties, Commutations and Pardons",
+        "Drug Abuse and Traffic",
+        "Law and Legislation",
+        "States (US)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Protesters outside the White House in 2016. President Biden said on Thursday that he has asked the attorney general to review how marijuana is legally categorized.",
+          "copyright": "Jose Luis Magana/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/10/06/us/politics/06dc-Marijuana/merlin_204885015_0539936e-5bd1-4b45-93d7-5f5c0c80de4b-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/06/us/politics/06dc-Marijuana/merlin_204885015_0539936e-5bd1-4b45-93d7-5f5c0c80de4b-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/06/us/politics/06dc-Marijuana/merlin_204885015_0539936e-5bd1-4b45-93d7-5f5c0c80de4b-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8d3a2397-d2b4-5a23-a957-309cbcf9098c",
+      "url": "https://www.nytimes.com/2022/10/23/arts/television/matthew-perry-friends-lovers-and-the-big-terrible-thing.html",
+      "id": 100000008564109,
+      "asset_id": 100000008564109,
+      "source": "New York Times",
+      "published_date": "2022-10-23",
+      "updated": "2022-11-02 06:00:31",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Books and Literature;Writing and Writers;Alcohol Abuse;Actors and Actresses;Drug Abuse and Traffic;Celebrities;Content Type: Personal Profile;audio-neutral-informative;audio-neutral-immersive;Perry, Matthew",
+      "column": null,
+      "byline": "By Elisabeth Egan",
+      "type": "Article",
+      "title": "The One Where Matthew Perry Writes an Addiction Memoir",
+      "abstract": "In “Friends, Lovers and the Big Terrible Thing,” the actor gets serious about sobriety, mortality, colostomy bags and pickleball.",
+      "des_facet": [
+        "Books and Literature",
+        "Writing and Writers",
+        "Alcohol Abuse",
+        "Actors and Actresses",
+        "Drug Abuse and Traffic",
+        "Celebrities",
+        "Content Type: Personal Profile",
+        "audio-neutral-informative",
+        "audio-neutral-immersive"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Perry, Matthew"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "By the time he was 49, Matthew Perry writes in his new book, he had spent more than half of his life in treatment centers or sober living facilities.",
+          "copyright": "Michelle Groskopf for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/10/07/books/00MATTHEWPERRY1/00MATTHEWPERRY1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/07/books/00MATTHEWPERRY1/00MATTHEWPERRY1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/07/books/00MATTHEWPERRY1/00MATTHEWPERRY1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/925aa471-c669-5da9-892d-ed4a71929579",
+      "url": "https://www.nytimes.com/2022/10/14/style/brittney-adu-aaron-canales-wedding.html",
+      "id": 100000008500133,
+      "asset_id": 100000008500133,
+      "source": "New York Times",
+      "published_date": "2022-10-14",
+      "updated": "2022-10-17 16:48:22",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Weddings and Engagements;Memphis (Tenn)",
+      "column": null,
+      "byline": "By Tammy La Gorce",
+      "type": "Article",
+      "title": "‘Still Growing Together,’ a Teenage Crush Leads to Marriage",
+      "abstract": "Brittney Adu was smitten when she saw Aaron Canales on the first day of their freshman year of high school. Despite their cultural differences and the trials of a young romance, their love endured.",
+      "des_facet": [
+        "Weddings and Engagements"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Memphis (Tenn)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brittney Adu said she felt like the “president of the entire world” when Aaron Canales asked her to be his girlfriend in 2013. The couple married Sept. 17 at the Lichterman Nature Center in Memphis.",
+          "copyright": "Whitten Sabbatini for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/10/16/fashion/14VOWS-MEMPHIS/14VOWS-MEMPHIS-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/16/fashion/14VOWS-MEMPHIS/14VOWS-MEMPHIS-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/16/fashion/14VOWS-MEMPHIS/14VOWS-MEMPHIS-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

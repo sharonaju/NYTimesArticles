@@ -27,7 +27,7 @@ final class EndPointItemTest: XCTestCase {
 
     func testPath() {
         let path = sut.path
-        XCTAssertEqual(path, "viewed/1.json")
+        XCTAssertEqual(path, "mostviewed/all-sections/1.json")
     }
     
     func testHTTPMethod() {
@@ -42,7 +42,7 @@ final class EndPointItemTest: XCTestCase {
     
     func testURL() {
         let url = sut.url
-        XCTAssertEqual(url, URL(string: "http://api.nytimes.com/svc/mostpopular/v2/viewed/1.json"))
+        XCTAssertEqual(url, URL(string: "http://api.nytimes.com/svc/mostpopular/v2/mostviewed/all-sections/1.json"))
     }
 
     func testPerformanceExample() throws {
