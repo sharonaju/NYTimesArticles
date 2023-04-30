@@ -166,7 +166,7 @@ extension ArticleListViewController: UITableViewDelegate {
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
             interactor?.getSelectedArticle(articles?[indexPath.row])
-
+            router?.routeToArticleDetail(segue: nil)
         
     }
 }

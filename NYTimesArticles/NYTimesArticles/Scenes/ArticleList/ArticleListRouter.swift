@@ -14,7 +14,7 @@ import UIKit
 
 @objc protocol ArticleListRoutingLogic
 {
-  //func routeToSomewhere(segue: UIStoryboardSegue?)
+    func routeToArticleDetail(segue: UIStoryboardSegue?)
 }
 
 protocol ArticleListDataPassing
@@ -27,34 +27,34 @@ class ArticleListRouter: NSObject, ArticleListRoutingLogic, ArticleListDataPassi
   weak var viewController: ArticleListViewController?
   var dataStore: ArticleListDataStore?
   
-  // MARK: Routing
-  
-  //func routeToSomewhere(segue: UIStoryboardSegue?)
-  //{
-  //  if let segue = segue {
-  //    let destinationVC = segue.destination as! SomewhereViewController
-  //    var destinationDS = destinationVC.router!.dataStore!
-  //    passDataToSomewhere(source: dataStore!, destination: &destinationDS)
-  //  } else {
-  //    let storyboard = UIStoryboard(name: "Main", bundle: nil)
-  //    let destinationVC = storyboard.instantiateViewController(withIdentifier: "SomewhereViewController") as! SomewhereViewController
-  //    var destinationDS = destinationVC.router!.dataStore!
-  //    passDataToSomewhere(source: dataStore!, destination: &destinationDS)
-  //    navigateToSomewhere(source: viewController!, destination: destinationVC)
-  //  }
-  //}
+    // MARK: Routing
+    
+    func routeToArticleDetail(segue: UIStoryboardSegue?)
+    {
+      if let segue = segue {
+        let destinationVC = segue.destination as! ArticleDetailViewController
+        var destinationDS = destinationVC.router!.dataStore!
+        passDataToArticleDetail(source: dataStore!, destination: &destinationDS)
+      } else {
+        let storyboard = UIStoryboard(name: "Main", bundle: nil)
+        let destinationVC = storyboard.instantiateViewController(withIdentifier: "ArticleDetailViewControllerID") as! ArticleDetailViewController
+        var destinationDS = destinationVC.router!.dataStore!
+        passDataToArticleDetail(source: dataStore!, destination: &destinationDS)
+        navigateToArticleDetail(source: viewController!, destination: destinationVC)
+      }
+    }
 
-  // MARK: Navigation
-  
-  //func navigateToSomewhere(source: ArticleListViewController, destination: SomewhereViewController)
-  //{
-  //  source.show(destination, sender: nil)
-  //}
-  
-  // MARK: Passing data
-  
-  //func passDataToSomewhere(source: ArticleListDataStore, destination: inout SomewhereDataStore)
-  //{
-  //  destination.name = source.name
-  //}
+    // MARK: Navigation
+    
+    func navigateToArticleDetail(source: ArticleListViewController, destination: ArticleDetailViewController)
+    {
+      source.show(destination, sender: nil)
+    }
+    
+    // MARK: Passing data
+    
+    func passDataToArticleDetail(source: ArticleListDataStore, destination: inout ArticleDetailDataStore)
+    {
+      destination.article = source.article
+    }
 }

@@ -71,6 +71,40 @@
             </objects>
             <point key="canvasLocation" x="947.32824427480909" y="3.5211267605633805"/>
         </scene>
+        <!--Article Detail View Controller-->
+        <scene sceneID="gPn-uU-jFi">
+            <objects>
+                <viewController storyboardIdentifier="ArticleDetailViewControllerID" id="U69-lI-MtU" customClass="ArticleDetailViewController" customModule="NYTimesArticles" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="H4o-EF-agP">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" bounces="NO" bouncesZoom="NO" dataMode="prototypes" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="425-L6-ciF">
+                                <rect key="frame" x="0.0" y="0.0" width="393" height="818"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <connections>
+                                    <outlet property="dataSource" destination="U69-lI-MtU" id="Ms7-uS-QOp"/>
+                                    <outlet property="delegate" destination="U69-lI-MtU" id="Chx-sI-B98"/>
+                                </connections>
+                            </tableView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="fGP-HV-c4c"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="425-L6-ciF" firstAttribute="top" secondItem="H4o-EF-agP" secondAttribute="top" id="1RB-jW-ZUe"/>
+                            <constraint firstItem="425-L6-ciF" firstAttribute="trailing" secondItem="fGP-HV-c4c" secondAttribute="trailing" id="58e-Lq-cUS"/>
+                            <constraint firstItem="fGP-HV-c4c" firstAttribute="bottom" secondItem="425-L6-ciF" secondAttribute="bottom" id="RQy-V6-5wf"/>
+                            <constraint firstItem="425-L6-ciF" firstAttribute="leading" secondItem="fGP-HV-c4c" secondAttribute="leading" id="wNl-wx-b0U"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="tableView" destination="425-L6-ciF" id="L9L-q6-AaS"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iVY-iF-rMh" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1796" y="4"/>
+        </scene>
         <!--Navigation Controller-->
         <scene sceneID="hnB-JY-WbV">
             <objects>

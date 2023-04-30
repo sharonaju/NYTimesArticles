@@ -17,7 +17,7 @@ extension String {
 
         let dateFormatterPrint = DateFormatter()
         dateFormatterPrint.dateFormat = "EEE, dd MMM,yyyy"
-
+        dateFormatterPrint.locale = Locale(identifier: "en_us")
         if let date = dateFormatterGet.date(from: self) {
             dateStr = dateFormatterPrint.string(from: date)
         }
