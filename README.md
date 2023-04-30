@@ -1,6 +1,7 @@
 # NYTimesArticles
 NYTimesArticles is an iOS application built in Swift to list the most popular articles in New York Times.
 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/11748817/235362102-3b81a4bf-d6a6-4100-a86b-c36b8e6d79ef.gif)
 
 ## Features
 - Lists the Most popular articles
