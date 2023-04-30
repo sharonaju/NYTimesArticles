@@ -40,6 +40,17 @@
                ReferencedContainer = "container:NYTimesArticles.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "806717FE29FE972D0033702A"
+               BuildableName = "NYTimesArticlesUITests.xctest"
+               BlueprintName = "NYTimesArticlesUITests"
+               ReferencedContainer = "container:NYTimesArticles.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
