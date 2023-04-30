@@ -25,7 +25,6 @@ protocol ArticleDetailDataStore
 class ArticleDetailInteractor: ArticleDetailBusinessLogic, ArticleDetailDataStore
 {
   var presenter: ArticleDetailPresentationLogic?
-  var worker: ArticleDetailWorker?
     var article: Article?
   
     // MARK: Show Selected Article
